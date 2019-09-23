@@ -13,6 +13,7 @@ class Shoe
         BRANDS << brand
       end
     end
+    BRANDS
   end
 
   def cobble
